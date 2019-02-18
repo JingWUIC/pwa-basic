@@ -2,7 +2,7 @@
   "name": "PWA Basic Example",
   "short_name": "PWA Basic",
   "icons": [ {
-        "src": "./H.png",
+        "src": "./h.png",
         "type": "image/png",
         "sizes": "144x144"
       }],
